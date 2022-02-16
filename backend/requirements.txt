@@ -1,0 +1,8 @@
+click
+Flask>=0.12.3
+Flask-Cors
+itsdangerous
+Jinja2>=2.10.1
+MarkupSafe
+six==1.11.0
+Werkzeug
